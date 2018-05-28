@@ -12,6 +12,8 @@ scikit-learn = "*"
 matplotlib = "*"
 pandas = "*"
 thinc = "*"
+WordCloud = "*"
+jieba = "*"
 
 [dev-packages]
 
